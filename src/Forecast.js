@@ -20,7 +20,7 @@ export default function Forecast() {
         </div>
 
         <div className="col-2">
-          <div className="day">Sat</div>
+          <div className="day">Sun</div>
           <img
             className="icon"
             src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
@@ -33,7 +33,7 @@ export default function Forecast() {
         </div>
 
         <div className="col-2">
-          <div className="day">Sat</div>
+          <div className="day">Mon</div>
           <img
             className="icon"
             src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
@@ -46,7 +46,7 @@ export default function Forecast() {
         </div>
 
         <div className="col-2">
-          <div className="day">Sat</div>
+          <div className="day">Tue</div>
           <img
             className="icon"
             src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
@@ -59,7 +59,7 @@ export default function Forecast() {
         </div>
 
         <div className="col-2">
-          <div className="day">Sat</div>
+          <div className="day">Wed</div>
           <img
             className="icon"
             src="https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
