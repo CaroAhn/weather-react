@@ -1,0 +1,11 @@
+.project {
+  display: block;
+  margin: 30px auto;
+  padding: 40px;
+  width: 60%;
+  border-radius: 10px;
+  box-shadow: rgb(37 39 89 / 8%) 0px 9px 9px 0;
+  color: white;
+  background-image: linear-gradient(#f0fff3, #c6f1e7, #70acb1, #f0fff3);
+  font-family: "Fjalla One", sans-serif;
+}

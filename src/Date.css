@@ -1,0 +1,17 @@
+h1 {
+  text-align: right;
+  left: -50px;
+  margin-bottom: 30px;
+  color: rgb(32, 32, 32);
+  padding: 0px;
+  position: relative;
+}
+
+p {
+  text-align: right;
+  left: -50px;
+  margin-bottom: 30px;
+  color: rgb(32, 32, 32);
+  padding: 0px;
+  position: relative;
+}

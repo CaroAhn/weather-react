@@ -1,0 +1,11 @@
+input {
+  font-size: 20px;
+  border-radius: 15px;
+  border-color: gray;
+}
+
+.row {
+  position: relative;
+  right: -100px;
+  font-size: 25px;
+}
